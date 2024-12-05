@@ -16,6 +16,8 @@ namespace WarriorOOP
         }
     }
 
+
+
     class Warrior
     {
         protected string _name;
